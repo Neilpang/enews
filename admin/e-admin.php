@@ -72,7 +72,7 @@
         $option = '本主题基于MIT开源协议免费开放使用，作者（水冷眸）仅保留著作版权。使用本主题可进行任意形式修改，但请保留作者版权。';
 	    break;
 	  case 'copy':
-        $option = ' 基于 <a href="https://cn.wordpress.org/" target="_blank" rel="nofollow">WordPress</a> & <a href="http://www.16898.pw"  title="水冷眸博客">水冷眸</a>&nbsp;<a href="http://www.16898.pw/go/aliyun.html" target="_blank" rel="nofollow"  title="运行在阿里云"><img src="http://deli8.qiniudn.com/aliyun.png"  alt="运行在阿里云" /></a>';
+        $option = ' 基于 <a href="https://cn.wordpress.org/" target="_blank" rel="nofollow">WordPress</a> & <a href="http://www.16898.pw"  title="水冷眸博客">水冷眸</a>&nbsp;<a href="http://www.16898.pw/go/aliyun.html" target="_blank" rel="nofollow"  title="运行在阿里云"></a>';
 	    break;
 	  case 'sign':
         $option = ' 这里填写您所要发布的公告消息，可在后台主题设置中修改，请注意最大宽度。超出宽度自动隐藏';
