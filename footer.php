@@ -16,7 +16,7 @@
 <a href="#" class="scrollup" title="回到顶部!" style="overflow: hidden; display: inline;">回到顶部</a>
 <?php echo get_option('footcode')?>
 <?php $snow = get_option('snow'); if ($snow == 'open') { ?>
-<script src="http://cdn.16898.pw/Enews/snow.js"></script>
+<script src="/wp-content/themes/Enews-master/js/snow.js"></script>
 <script>
 	$(function(){
 		$.fn.snow({ 
