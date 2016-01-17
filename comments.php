@@ -13,7 +13,7 @@
       <div class="r-inbox-content" id="reply-content"></div>
     </div>
   </div>
-  <form method="post" action="<?php echo get_option('siteurl'); ?>/wp-comments-post.php" id="comment_form">
+  <form method="post" action="/wp-comments-post.php" id="comment_form">
     <div class="r-submit2">
       <?php if ( is_user_logged_in() ) : ?>
       <p>
